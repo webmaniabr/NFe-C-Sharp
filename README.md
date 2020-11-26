@@ -38,4 +38,4 @@ Desenvolvimento baseado na biblioteca [RestSharp](http://restsharp.org/).
 
 ## Suporte
 
-Qualquer dúvida entre em contato na nossa [Central de Ajuda](https://ajuda.webmaniabr.com) ou acesse o [Painel de Controle](https://webmaniabr.com/painel/) para conversar em tempo real no Chat ou Abrir um chamado.
+Qualquer dúvida acesse o [Painel WebmaniaBR®](https://webmaniabr.com/painel/) para *abrir um chamado* ou conversar em tempo real no *chat*.
